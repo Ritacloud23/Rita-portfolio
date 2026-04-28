@@ -1,65 +1,106 @@
-<h1 align="center"> Ugwuanyi Rita Nnenna</h1>
-<h3 align="center">Cloud & DevOps Engineer</h3>
+# Rita Nnenna - Cloud & DevOps Portfolio
 
-<p align="center">
-  I build CI/CD pipelines from scratch, automate infrastructure, and deploy production-ready systems on AWS and Azure.<br>
-  I don't just configure tools — I build systems that teams can actually rely on when it matters most.
-</p>
-
-<p align="center">
-   <strong><a href="https://ritacloud23.github.io/Rita-portfolio">View Live Portfolio</a></strong>
-</p>
+![HTML](https://img.shields.io/badge/HTML-62.3%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-29.7%25-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6.6%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-1.4%25-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
-## Deployment
+##  Overview
 
-<p>
-  Automatically deployed to <strong>GitHub Pages</strong> via <strong>GitHub Actions CI/CD</strong> — every push to <code>main</code> triggers a live deployment.
-</p>
+This is my personal portfolio website built to showcase my work as a Cloud and DevOps Engineer.
 
----
+The portfolio highlights my technical background, hands-on cloud projects, DevOps services, project documentation, Medium articles, and contact information in one professional space.
 
-##  Sections
-
-- 🏠 **Home** — Hero intro and quick summary
-- 👤 **About** — Background and career focus
-- 📄 **Resume** — Work experience and skills
-- 🗂️ **Portfolio** — Real DevOps projects
-- ⚙️ **Services** — What I offer
-- 📝 **Blog** — Articles on Medium
-- 📬 **Contact** — Get in touch
+It is designed to help recruiters, hiring managers, collaborators, and clients quickly understand what I build, the tools I work with, and the real-world projects I have completed.
 
 ---
 
-##  Featured Blog Posts
+##  Live Portfolio
 
-- [Deploying a Modern Online Banking System on AWS with CI/CD & Kubernetes](https://medium.com/@ugwuanyinnenna43/deploying-a-modern-online-banking-system-on-aws-with-ci-cd-kubernetes-and-secure-domain-0f28d284bcd9)
-- [Your Deployment Just Failed in Production. What's Your Next Move?](https://medium.com/@ugwuanyinnenna43/your-deployment-just-failed-in-production-whats-your-next-move-27dd78c43250)
-- [How I Built a Production-Ready DevOps Pipeline for Mediplus on AWS](https://medium.com/@ugwuanyinnenna43/how-i-built-and-automated-a-production-ready-devops-pipeline-for-mediplus-on-aws-13362e8a77c7)
+🔗 **Live Website:** (https://github.com/Ritacloud23/Rita-portfolio)
 
 ---
 
-##  Tools & Technologies
+##  About the Portfolio
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-</p>
+This portfolio represents my journey in Cloud and DevOps Engineering, with a focus on:
 
----
+- Cloud infrastructure
+- CI/CD automation
+- Kubernetes deployments
+- DevSecOps practices
+- GitOps workflows
+- Monitoring and alerting
+- Technical writing and project documentation
 
-##  Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/Ritacloud23">🐙 GitHub</a> &nbsp;|&nbsp;
-  <a href="https://medium.com/@ugwuanyinnenna43">✍️ Medium</a>
-</p>
+The website includes sections for my profile, skills, projects, services, blog articles, and contact details.
 
 ---
 
-<p align="center">⭐ If you found this helpful, feel free to star the repo!</p>
+##  Key Sections
+
+###  Home
+
+A short introduction showing who I am and the cloud/DevOps roles I focus on.
+
+###  About
+
+A brief professional summary explaining my background in cloud infrastructure, automation, reliability, and production-style deployments.
+
+###  Skills
+
+A visual breakdown of the tools and technologies I work with, including AWS, Azure, Linux, Terraform, Docker, Kubernetes, GitHub Actions, Prometheus, Grafana, and Ansible.
+
+###  Portfolio
+
+A showcase of selected hands-on projects, including cloud deployments, Kubernetes platforms, CI/CD pipelines, monitoring setups, and DevSecOps implementations.
+
+###  Services
+
+A summary of the technical services I can support, including cloud infrastructure, CI/CD setup, containerization, monitoring, DevSecOps, and testing automation.
+
+###  Blog
+
+A collection of Medium articles where I explain real DevOps projects, deployment lessons, troubleshooting experiences, and practical cloud engineering workflows.
+
+###  Contact
+
+A contact section for recruiters, collaborators, and clients to reach out.
+
+---
+
+##  Built With
+
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Bootstrap
+- Bootstrap Icons
+- AOS Animation
+- GLightbox
+- Swiper.js
+- Isotope Layout
+
+---
+
+##  Project Structure
+
+```text
+portfolio-1.0.0/
+├── .github/
+│   └── workflows/
+│       └── deploy.yml
+├── assets/
+│   ├── css/
+│   ├── img/
+│   ├── js/
+│   └── vendor/
+├── forms/
+├── index.html
+├── portfolio-details.html
+├── service-details.html
+├── starter-page.html
+└── README.md
